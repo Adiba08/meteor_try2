@@ -9,7 +9,7 @@
   "galaxy.meteor.com": {
     "env": {
       "DEPLOY_HOSTNAME" : "galaxy.meteor.com",
-      "MONGO_URL": "mongodb+srv://<read&write adibaproma>:<read&write adibaproma>@cluster0.fcs1vxb.mongodb.net/?retryWrites=true&w=majority"
+      "MONGO_URL": "mongodb+srv://test:admin@cluster0.fcs1vxb.mongodb.net/?retryWrites=true&w=majority"
     }
  }
 
